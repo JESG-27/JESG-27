@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Salcido</h1>
 <h3 align="center">Computer Engineering student at Universidad de Guadalajara.</h3>
 
-###
-
-<img src="https://raw.githubusercontent.com/JESG-27/JESG-27/output/snake.svg" alt="Snake animation" />
-
-###
-
+<div aling="center">
+    <img src="cover.png">
+</div>
+<br>
 <div align="left">
     <a href="linkedin.com/in/emmanuel-salcido-1895a12b9">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
@@ -15,15 +13,15 @@
 
 ###
 
-- 🔭 I’m currently working on **Climate analysis for crops**
+- 🔭 I’m currently working on **Agrotech** a personal project that focuses on climate data analysis for crops. 🌾
 
 - 📫 How to reach me **emmanuelsdev17@gmail.com**
 
 - 📄 Know about my experiences [Portfolio](https://jesg-27.github.io/EmmanuelSG/)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JESG-27&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JESG-27&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=JESG-27&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JESG-27&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
