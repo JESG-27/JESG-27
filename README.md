@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Salcido</h1>
-<h3 align="center">Computer Engineering student at Universidad de Guadalajara.</h3>
+<h3 align="center">Computer Engineer graduated from Universidad de Guadalajara.</h3>
+<h4 align="center">Currently working as a software developer intern at Nucore</h4>
 
 <div aling="center">
     <img src="cover.png">
