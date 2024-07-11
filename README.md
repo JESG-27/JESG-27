@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Salcido</h1>
+<h2 align="center">Currently working as a Analyst Developer at Nucore</h2>
 <h3 align="center">Computer Engineer graduated from Universidad de Guadalajara.</h3>
-<h4 align="center">Currently working as a software developer intern at Nucore</h4>
 
 <div aling="center">
     <img src="cover.png">
@@ -14,7 +14,7 @@
 
 ###
 
-- 🔭 I’m currently working on **Agrotech** a personal project that focuses on climate data analysis for crops. 🌾
+- 🔭 Working on **Agrotech** a personal project that focuses on climate data analysis for crops. 🌾
 
 - 📫 How to reach me **emmanuelsdev17@gmail.com**
 
