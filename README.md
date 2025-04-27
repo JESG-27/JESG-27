@@ -14,7 +14,8 @@
 
 ###
 
-- 🔭 Working on **Agrotech** a personal project that focuses on climate data analysis for crops. 🌾
+- 🔭 Working on **MySQLStats**, a console application to perform replication validation tests and mysql schema backups.
+
 
 - 📫 How to reach me **emmanuelsdev17@gmail.com**
 
